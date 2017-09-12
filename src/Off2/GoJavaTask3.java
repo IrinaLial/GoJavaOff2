@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class GoJavaTask3 {
     public static void main (String []args){
         Scanner scan = new Scanner(System.in);
-        
+
         System.out.println("Task #3" );
 
         double r = scan.nextDouble();
